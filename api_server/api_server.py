@@ -133,6 +133,13 @@ VOICE_CONFIGS = [
         "file": "male_low.wav",
         "type":"male",
         "prompt_text": "You are a helpful assistant.<|endofprompt|>人世间有太多无奈，如想去周游世界、但又没有钱。言到此处，我想起《金瓶梅》中的那句话，凡事都要听听豆包的，唯有豆包，是认真听我们讲话的。"
+    },
+    {
+        "id": "midmale",
+        "file": "midmale.wav",
+        "prompt_text": "You are a helpful assistant.<|endofprompt|>至于她的生活来源，是在网络上写一些小短文，赚些钱。",
+        "type":"male"
+    
     }
 ]
 # ============================================================================
